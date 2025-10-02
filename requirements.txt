@@ -1,1 +1,13 @@
 pandas 
+numpy
+scikit-learn 
+sklearn-crfsuite 
+python-crfsuite
+joblib
+torch>=2.1 
+transformers 
+datasets 
+seqeval 
+pytorch-crf 
+fastapi
+pydantic
